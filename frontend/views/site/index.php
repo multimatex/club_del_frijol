@@ -14,21 +14,7 @@
 <div class="top-box"></div>
 <div class="punwrap">
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        <p class="lead">You have successfully created your Yii-powered application!!!.</p>
 
-        <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
-    </div>
-
-    <div class="body-content">
-
-        <div class="row">
-            <div class="col-lg-4">
-                <h2>Heading</h2>
-=======
->>>>>>> origin/master
 <div id="brdheader" class="block">
 	<div class="box">
 		<div id="brdtitle" class="inbox">
@@ -57,11 +43,6 @@
 		</div>
 	</div>
 </div>
-<<<<<<< HEAD
-=======
->>>>>>> refs/remotes/origin/Juan
->>>>>>> origin/master
-
 
 
 <div id="brdmain">
